@@ -37,40 +37,64 @@ plugins:
 # Team names, titles and social links
 people:
 - name: Thomas Emerson
-  pic: 4
+  pic: 
   position: Ing. en computación e informática
   social:
     - title: instagram
-      url: https://x.com/isaacrd14?t=gL_-izCuQ8dK7tRr_ey36A&s=09
+      url: https://google.com/
       target: _blank
     - title: linkedin
-      url: https://www.linkedin.com/in/isaac-andr%C3%A9s-rivera-delgado-990b4a207/
+      url: https://www.linkedin.com/in/temersong/
       target: _blank
     - title: github
-      url: https://github.com/Isaacrd14
+      url: https://github.com/bountyhacking
       target: _blank
     - title: youtube
-      url: https://github.com/Isaacrd14
+      url: https://www.youtube.com/channel/UChNTj2xNpEQiliMv-IJbWvQ
       target: _blank
+
 - name: Thomas Emerson
-  pic: 4
+  pic: 1
   position: Ing. en computación e informática
   social:
     - title: instagram
-      url: https://x.com/isaacrd14?t=gL_-izCuQ8dK7tRr_ey36A&s=09
+      url: https://google.com/
       target: _blank
     - title: linkedin
-      url: https://www.linkedin.com/in/isaac-andr%C3%A9s-rivera-delgado-990b4a207/
+      url: https://www.linkedin.com/in/temersong/
       target: _blank
     - title: github
-      url: https://github.com/Isaacrd14
+      url: https://github.com/bountyhacking
       target: _blank
     - title: youtube
-      url: https://github.com/Isaacrd14
+      url: https://www.youtube.com/channel/UChNTj2xNpEQiliMv-IJbWvQ
+      target: _blank
+
+- name: Thomas Emerson
+  pic: 
+  position: Ing. en computación e informática
+  social:
+    - title: instagram
+      url: https://google.com/
+      target: _blank
+    - title: linkedin
+      url: https://www.linkedin.com/in/temersong/
+      target: _blank
+    - title: github
+      url: https://github.com/bountyhacking
+      target: _blank
+    - title: youtube
+      url: https://www.youtube.com/channel/UChNTj2xNpEQiliMv-IJbWvQ
       target: _blank
 
 
-
+# Author settings
+#author-pic: 1.jpg # your photo
+#author-name: # your name
+#about-author: # about author
+#email: your-email@domain.com # your email
+#phone: (496)-169-6557 # your pnone number
+#website: https://dwayne.example.com # you website
 
 # Exclude from processing.
 # The following items will not be processed, by default.
