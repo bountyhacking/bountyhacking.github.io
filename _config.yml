@@ -37,7 +37,7 @@ plugins:
 # Team names, titles and social links
 people:
 - name: Thomas Emerson
-  pic: 2
+  pic: 4
   position: Ing. en computación e informática
   social:
     - title: instagram
@@ -52,6 +52,23 @@ people:
     - title: youtube
       url: https://github.com/Isaacrd14
       target: _blank
+- name: Thomas Emerson
+  pic: 4
+  position: Ing. en computación e informática
+  social:
+    - title: instagram
+      url: https://x.com/isaacrd14?t=gL_-izCuQ8dK7tRr_ey36A&s=09
+      target: _blank
+    - title: linkedin
+      url: https://www.linkedin.com/in/isaac-andr%C3%A9s-rivera-delgado-990b4a207/
+      target: _blank
+    - title: github
+      url: https://github.com/Isaacrd14
+      target: _blank
+    - title: youtube
+      url: https://github.com/Isaacrd14
+      target: _blank
+
 
 
 
