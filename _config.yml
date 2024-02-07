@@ -34,6 +34,20 @@ theme: minima
 plugins:
   - jekyll-feed
 
+
+# Team names, titles and social links
+people:
+- name: Thomas Emerson
+  pic: 2
+  position: Ing. en computación e informática
+  social:
+    - title: twitter
+      url: https://x.com/isaacrd14?t=gL_-izCuQ8dK7tRr_ey36A&s=09
+      target: _blank
+    - title: linkedin
+
+
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
