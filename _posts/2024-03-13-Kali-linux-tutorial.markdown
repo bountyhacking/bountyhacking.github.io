@@ -1,0 +1,16 @@
+---
+title: My TOP 6 tools for kali linux
+subtitle: Hacking
+layout: default
+modal-id: 1
+date: 2014-07-18
+img: guia.png
+thumbnail: guia-thumnail.png
+alt: image-alt
+project-date: March 2024
+client: Youtube
+category: Videos
+description: Learn how to install the main tools for penetration testing on kali linux.
+
+---
+
