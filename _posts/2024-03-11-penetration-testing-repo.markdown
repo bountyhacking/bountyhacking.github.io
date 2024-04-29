@@ -1,5 +1,5 @@
 ---
-title: Pentesting Repo
+title: Pentesting Repository
 subtitle: Github
 layout: default
 modal-id: 1
@@ -7,9 +7,9 @@ date: 2014-07-18
 img: git_payloads.png
 thumbnail: git-thumbnail.png
 alt: image-alt
-project-date: April 2014
+project-date: March 2024
 client: Start Bootstrap
 category: Web Development
-description: Este es mi repositorio en guthub donde almaceno mis herramientas para realizar mis auditorias.
+description: This is my personal repository for penetration testing payloads and tools
 
 ---

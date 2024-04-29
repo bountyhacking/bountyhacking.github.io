@@ -1,26 +1,27 @@
 <?php
 // Check for empty fields
-if(empty($_POST['name'])  		||
-   empty($_POST['email']) 		||
-   empty($_POST['phone']) 		||
-   empty($_POST['message'])	||
-   !filter_var($_POST['email'],FILTER_VALIDATE_EMAIL))
-   {
-	echo "No arguments Provided!";
-	return false;
-   }
+if (empty($_POST['name']) || empty($_POST['email']) || empty($_POST['phone']) || empty($_POST['message']) || !filter_var($_POST['email'], FILTER_VALIDATE_EMAIL)) {
+    echo "Por favor, completa todos los campos correctamente.";
+    return false;
+}
 
-$name = $_POST['Tu nombre'];
-$email_address = $_POST['Tu correo'];
-$phone = $_POST['Tu telefono'];
-$message = $_POST['Mensaje'];
+// Recoge los valores de los campos del formulario
+$name = $_POST['name'];
+$email_address = $_POST['email'];
+$phone = $_POST['phone'];
+$message = $_POST['message'];
 
-// Create the email and send the message
-$to = 'thomas-emerson@live.com'; // Add your email address inbetween the '' replacing yourname@yourdomain.com - This is where the form will send a message to.
-$email_subject = "Website Contact Form:  $name";
-$email_body = "You have received a new message from your website contact form.\n\n"."Here are the details:\n\nName: $name\n\nEmail: $email_address\n\nPhone: $phone\n\nMessage:\n$message";
-$headers = "From: noreply@yourdomain.com\n"; // This is the email address the generated message will be from. We recommend using something like noreply@yourdomain.com.
+// Configura los detalles del correo
+$to = 'thomas-emerson@live.com';
+$email_subject = "Formulario de contacto del sitio web: $name";
+$email_body = "Has recibido un nuevo mensaje desde el formulario de contacto de tu sitio web.\n\nDetalles:\n\nNombre: $name\nEmail: $email_address\nTeléfono: $phone\nMensaje:\n$message";
+$headers = "From: $email_address\n";
 $headers .= "Reply-To: $email_address";
-mail($to,$email_subject,$email_body,$headers);
-return true;
+
+// Envía el correo
+if (mail($to, $email_subject, $email_body, $headers)) {
+    echo "¡El mensaje se envió correctamente! Gracias por contactarnos.";
+} else {
+    echo "Hubo un problema al enviar el mensaje. Por favor, inténtalo de nuevo más tarde.";
+}
 ?>
