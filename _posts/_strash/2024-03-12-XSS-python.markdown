@@ -12,3 +12,5 @@ client: Medium
 category: Hack tricks
 description: This is a quick article to explain how to hide cookies with Python server to gain administrator privileges. This blog was written on medium, review it completely and don't miss any details.
 ---
+example
+# example
