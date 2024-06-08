@@ -4,16 +4,20 @@
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
 
-.row {
+/* ESTE BLOQUE DE CODIGO CENTRA LA IMAGEN DE TEAM MEMBER */
+.row-team { /* ESTA CLASE SE INVOCA EN TEAM HTML*/
     display: flex;
-    justify-content: center;
+    justify-content: center; /* ESTA LINEA ES LA RESPONSABLE DE CENTRAR DATOS */
     align-items: center;
 }
 
+/* ESTE BLOQUE DE CODIGO CENTRA LA IMAGEN DE TEAM MEMBER Y AGRANDA
+LA IMAGEN
 .col-sm-4 {
     flex: 0 0 100%;
     max-width: 100%;
 }
+ */
 
 body {
     overflow-x: hidden;
@@ -877,3 +881,4 @@ img::-moz-selection {
 body {
     webkit-tap-highlight-color: #{{ site.data.template.color.primary }};
 }
+
