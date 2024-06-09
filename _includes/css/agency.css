@@ -12,12 +12,11 @@
 }
 
 /* ESTE BLOQUE DE CODIGO CENTRA LA IMAGEN DE TEAM MEMBER Y AGRANDA
-LA IMAGEN
+LA IMAGEN  */
 .col-sm-4 {
     flex: 0 0 100%;
     max-width: 100%;
 }
- */
 
 body {
     overflow-x: hidden;
