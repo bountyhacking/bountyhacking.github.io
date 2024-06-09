@@ -14,16 +14,23 @@
                             <h2>{{ post.title }}</h2>
                             <hr class="star-primary">
                             <img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
+                            
+                            <!--ESTA LINEA INDICA LA DESCRIPCION DE CADA POST-->
                             <p>{{ post.description }}</p>
+
+                            <!--ESTE BLOQUE SON LAS VARIABLES DE CADA POST DEL APLICATIVO WEB-->
                             <ul class="list-inline item-details">
+                                <!--ESTA LINEA INDICA EL CLIENTE DE CADA POST -->
                                 <li>Client:
                                     <strong><a href="#">{{ post.client }}</a>
                                     </strong>
                                 </li>
+                                <!--ESTA LINEA INDICA FECHA DE CADA POST -->
                                 <li>Date:
                                     <strong><a href="#">{{ post.project-date }}</a>
                                     </strong>
                                 </li>
+                                <!--ESTA LINEA EL SERVICIO DE CADA POST -->
                                 <li>Service:
                                     <strong><a href="#">{{ post.category }}</a>
                                     </strong>
