@@ -1,18 +1,18 @@
 ---
-title: ISO 27001:2022 L.A.
-subtitle: ISO/IEC 27001:2022 Lead Auditor Certificated.
+title: eWPTX Certification
+subtitle: My next penetration tester certification
 layout: default
-modal-id: 3
-date: 2024-03-13
-img: iso27001.png
-thumbnail: iso27001.png
+modal-id: 2
+date: 2024-03-14
+img: ewptx.png
+thumbnail: ewptx.png
 alt: image-alt
-project-date: June 2024
+project-date: July 2024
 client:
 youtube: Link
 linkedin: Profile
 category: 
-description: The ISO 27001 standard is an international standard that establishes the requirements for the implementation, maintenance and continuous improvement of an Information Security Management System (ISMS). This system is used to protect the confidentiality, integrity and availability of information. The standard provides a framework for information security that helps organizations identify and manage their information security risks effectively.
+description: The eWPTX certification from INE represents the most advanced level in web application penetration testing. To pass the exam, students must perform a penetration test with expert-level skills, which is evaluated by a team of cybersecurity instructors at INE. It is essential for students to deliver a detailed report of their findings, emulating the professional standard of the corporate sector. I am currently preparing to obtain this certification.
 ---
 
 Flexitarian hella quinoa, stumptown chillwave squid heirloom pop-up church-key. Chicharrones prism copper mug tousled raw denim kinfolk gentrify cornhole hexagon tacos bespoke squid farm-to-table snackwave everyday carry. Vaporware chicharrones activated charcoal jianbing pok pok. Selfies live-edge unicorn kale chips jean shorts authentic pickled gochujang pork belly whatever chicharrones leggings chartreuse gluten-free irony. Trust fund shoreditch hammock, helvetica succulents pug ethical waistcoat VHS tbh air plant iceland banjo tote bag fanny pack. Ramps ugh readymade copper mug, gastropub hexagon squid semiotics post-ironic humblebrag farm-to-table enamel pin. Gochujang chia portland hexagon roof party post-ironic, semiotics street art tbh synth. Air plant vinyl sustainable pork belly. Chicharrones cronut raw denim listicle flexitarian franzen. Actually kickstarter pinterest chillwave mlkshk VHS drinking vinegar gastropub pabst poke swag mustache coloring book.

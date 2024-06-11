@@ -2,7 +2,7 @@
 title: Cookie Hijacking with Python Server
 subtitle: A YouTube tutorial for cookie stealing using a python server
 layout: default
-modal-id: 2
+modal-id: 4
 date: 2024-03-12
 img: 600x338.png
 thumbnail: 600x338.png
